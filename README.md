@@ -18,13 +18,13 @@ pip install web3==5.17
 pip install eth-tester==0.5.0b3
 `````
 
-To install the mnemonic package, check that your dev environment is active, and then run the following:
+### To install the mnemonic package, check that your dev environment is active, and then run the following:
 
 ```
 pip install mnemonic
 ````
 
-To install the bip44 package, check that your dev environment is active, and then run the following: 
+### To install the bip44 package, check that your dev environment is active, and then run the following: 
 ```
 pip install bip44
 ````
@@ -33,7 +33,7 @@ pip install bip44
 
 Follow the instructions on the Ganache download page (Connexions vers un site externe.) to download and install this tool on your local machine.
 
-###Create a Workspace :
+### Create a Workspace :
 
 When you open Ganache, you are presented with two options for creating a workspace: Quickstart Ethereum and New Workspace Ethereum. Click Quickstart Ethereum.
 
